@@ -15,7 +15,7 @@ The core feature is the calculation of **Shannon Entropy** to quantify the infor
 
 | Deliverable | Description | Link (Placeholder - **Must be updated!**) |
 | :--- | :--- | :--- |
-| **Demonstration Code** | The Python game script (`BullsAndCowsgame.py`). | [Your GitHub Repo Link] |
+| **Demonstration Code** | The Python game script (`BullsAndCowsgame.py`). | **https://github.com/Rohanbagulwar/Entropy-Driven-Bulls-Cows-**|
 | **Demonstration Video** | Tutorial showcasing game functionality and entropy calculation (Max 5 mins). | **https://www.youtube.com/watch?v=Z59g18awh7w** |
 | **Conceptual Video** | Presentation on entropy calculation, justification, and optimal strategy (Max 10 mins). | **https://www.youtube.com/watch?v=Wyv0ZU8ilCM** |
 
